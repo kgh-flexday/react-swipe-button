@@ -117,3 +117,37 @@
   font-size: 24px;
   color: var(--ColorTypeC);
 }
+
+
+
+@media screen and (max-width:599px) {
+
+  .ReactSwipeButton {
+    height: 65px;
+  }
+
+  .rsbcSlider {
+    height: 65px;
+    left: 65px;
+
+  }
+
+  .rsbcSliderText {
+    line-height: 65px;
+  }
+
+  .rsbcSliderCircle {
+    height: 65px;
+    width: 65px;
+  }
+
+  .rsbcSliderText {
+    font-size: 16px;
+  }
+
+  .rsbcSliderCircle {
+    font-size: 16px;
+  }
+
+}
+
